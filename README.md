@@ -70,7 +70,7 @@ This project turns an ESP32-S3 into a standalone mechanical sequencer. When an I
 
 ## 📐 Wiring Diagram
 
-See **`diagram.jpg`** in the repository root.
+See **`hologram V1.png`** in the repository root.
 
 ```
    ┌─────────────┐
