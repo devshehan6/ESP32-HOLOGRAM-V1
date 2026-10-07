@@ -89,6 +89,8 @@ See **`hologram V1.png`** in the repository root.
    │  GPIO  6 ──► L7              │
    └──────────────────────────────┘
 ```
+### Don't trust the image included pins. make a project and change pins in your code
+<img src="hologram V1.png" width="100%">
 
 ---
 
